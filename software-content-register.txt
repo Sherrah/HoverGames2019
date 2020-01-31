@@ -1,0 +1,32 @@
+--------------------------------------------
+NXP Software Content Register
+--------------------------------------------
+
+Package:                   Python Script
+
+Outgoing License:          LA_OPT_NXP_Software_License v10 December 2019 - Internal use only
+
+License Files:             Software\Licenses
+
+Type of content:           Python script
+
+Description and comments:  FlyingFox Python script running on Linux Mendel on Google Coral board
+
+Release Location:          www.bitbucket.sw.nxp.com
+
+Origin:
+Software\Coral\test_drone.py
+                           NXP B.V.
+                              See LA_OPT_NXP_Software_License.htm
+Software\Coral\sigfox.py
+                           NXP B.V.
+                              See LA_OPT_NXP_Software_License.htm
+Software\Coral\project-posenet\sigfox_stub.py
+                           NXP B.V.
+                              See LA_OPT_NXP_Software_License.htm
+Software\Coral\project-posenet\hg_demo.py
+                           NXP B.V.
+                              See LA_OPT_NXP_Software_License.htm
+Software\Coral\project-posenet\*
+                           Tensorflow
+                              See LICENSE Project_PoseNet.txt
